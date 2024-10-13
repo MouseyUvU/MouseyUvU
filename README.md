@@ -10,6 +10,7 @@ Just a chemistry nerd and a Polish femboy that started learning programming for 
 | HTML5 | pretty oki |
 | CSS3 | pretty oki |
 | Javascript | I'm uhh uhh oki I guess |
+| C++ | basically don't know anything |
 
 ## Chocolate chip cookies recipe
 
